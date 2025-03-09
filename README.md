@@ -20,9 +20,9 @@ git clone <repository-url>
    npm install
 
 2. Create a `.env` file:
-   - Mention the QuickNode BNBTest/AnyTestnet URL and your private key in the `.env` file.
-   ```
-
+    ```
+    Mention the QuickNode BNBTest/AnyTestnet URL and your private key in the `.env` file.
+  
 3. Compile the contracts:
    ```
    npx hardhat compile
